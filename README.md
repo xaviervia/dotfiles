@@ -8,3 +8,5 @@ My setup for the `.oh-my-zsh/custom/plugins` folder.
 - `jdk`: Sets JAVA_HOME with the path corresponding to Mountain Lion.
 - `murder`: Joke. Alias for `killall -9`.
 - `todo`: Aliases for [todotxt](http://todotxt.com/). Same criteria with `git-focus`.
+- `ø`: Alias for `clear`. I added this for the lulz.
+- `grunt`: `grunt` zsh plugin from [yonchu/grunt-zsh-completion](https://github.com/yonchu/grunt-zsh-completion)
