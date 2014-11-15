@@ -1,5 +1,5 @@
-source ./git-aliases.sh
-sh ./ø.sh
+./git-aliases.sh
+./ø.sh
 
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
