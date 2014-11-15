@@ -1,3 +1,4 @@
+echo "Git focus"
 alias status="git status"
 alias log="git log --oneline --graph"
 alias add="git add"
