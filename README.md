@@ -5,7 +5,7 @@ Usage
 -----
 
 ```sh
-sh index.sh
+source index.sh
 ```
 
 Contents
