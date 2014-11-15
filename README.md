@@ -16,4 +16,4 @@ Contents
 - `boot2docker`: Docker socket environment variable
 - `simple-server`: Python SimpleHTTPServer on `server` command
 - `work`: Some shorthands for the codebase
-- 
+- `fbr`: Fuzzy git branch search
