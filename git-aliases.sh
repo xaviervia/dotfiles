@@ -1,7 +1,5 @@
 #!/bin/sh
 
-echo $DIR
-
 alias status="git status"
 alias log="git log --oneline --graph"
 alias add="git add"
