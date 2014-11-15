@@ -1,3 +1,5 @@
+#!/bin/sh
+
 alias npm-exec='PATH=$(npm bin):$PATH'
 alias kco="cd ~/Code/checkout"
 alias ac="ack --pager='less -R'"
