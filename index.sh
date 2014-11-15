@@ -1,4 +1,6 @@
-DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+echo $0
+
+# DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 source git-aliases.sh
 # $DIR/ø.sh
