@@ -1,3 +1,5 @@
+#!/bin/sh
+
 fbr() {
   local branches branch
   branches=$(git branch -a) &&
