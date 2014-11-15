@@ -1,4 +1,4 @@
-echo $0
+echo dirname $0
 
 # DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
