@@ -1,5 +1,7 @@
-./git-aliases.sh
-./ø.sh
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+$DIR/git-aliases.sh
+$DIR/ø.sh
 
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
