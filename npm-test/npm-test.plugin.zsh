@@ -1,0 +1,1 @@
+alias test="npm test"
