@@ -1,7 +1,8 @@
 #!/bin/sh
 
 alias status="git status"
-alias log="git log --oneline --graph"
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+alias log="git lg"
 alias add="git add"
 alias push="git push"
 alias pull="git pull"
