@@ -1,6 +1,6 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-$DIR/git-aliases.sh
+./git-aliases.sh
 $DIR/ø.sh
 $DIR/boot2docker.sh
 $DIR/nvm.sh
