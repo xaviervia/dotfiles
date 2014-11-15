@@ -1,7 +1,3 @@
-echo $(dirname $0)
-
-# DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-
 source $(dirname $0)/git-aliases.sh
 source $(dirname $0)/ø.sh
 source $(dirname $0)/boot2docker.sh
