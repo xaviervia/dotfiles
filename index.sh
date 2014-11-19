@@ -7,3 +7,4 @@ source $(dirname $0)/simple-server.sh
 source $(dirname $0)/work.sh
 source $(dirname $0)/fbr.sh
 source $(dirname $0)/en_US.sh
+source $(dirname $0)/vm.sh
