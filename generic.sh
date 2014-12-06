@@ -1,2 +1,2 @@
 alias see="pygmentize"
-alias tree="tree -C"
+alias tree="tree -Cl -L 3"
