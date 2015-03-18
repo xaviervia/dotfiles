@@ -1,1 +1,1 @@
-fortune
+fortune | cowsay | lolcat
