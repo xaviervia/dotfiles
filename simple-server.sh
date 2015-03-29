@@ -1,3 +1,3 @@
 #!/bin/sh
 
-alias server="python -m SimpleHTTPServer"
+alias server="browser-sync start --server --files '**/*.*'"
