@@ -9,5 +9,4 @@ source $(dirname $0)/fbr.sh
 source $(dirname $0)/vm.sh
 source $(dirname $0)/generic.sh
 source $(dirname $0)/en_US.sh
-source $(dirname $0)/bash_completion.sh
 source $(dirname $0)/fortune.sh
