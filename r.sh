@@ -1,5 +1,5 @@
 #!/bin/sh
 
 r() {
-  $(history | sed 's/^[ ]*[0-9]*[ ]*\(.*\)/\1/p' | sort | uniq -u | fzf)
+  $(history | sed 's/^[ ]*[0-9]*[ ]*\(.*\)/\1/p' | sort | fzf)
 }
