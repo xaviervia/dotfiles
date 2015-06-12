@@ -7,7 +7,7 @@ source $(dirname $0)/rvm.sh
 source $(dirname $0)/simple-server.sh
 source $(dirname $0)/work.sh
 source $(dirname $0)/fbr.sh
-source $(dirname $0)/r.sh
+source $(dirname $0)/re.sh
 source $(dirname $0)/vm.sh
 source $(dirname $0)/generic.sh
 source $(dirname $0)/en_US.sh
