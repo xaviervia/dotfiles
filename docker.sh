@@ -3,5 +3,5 @@ alias have-you-tried-turning-it-off-and-on-again='docker rm -f $(docker ps -aq)'
 alias machine="docker-machine"
 
 switch() {
-  eval 'eval "machine env $1"'
+  eval "$(machine env $1)"
 }
