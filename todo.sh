@@ -1,2 +1,2 @@
-alias ok="todo do"
+alias complete="todo do"
 alias task="todo ls"
