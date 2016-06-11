@@ -14,3 +14,4 @@ source $(dirname $0)/todo.sh
 source $(dirname $0)/fortune.sh
 source $(dirname $0)/en_US.sh
 source $(dirname $0)/utils.sh
+source $(dirname $0)/nix.sh
