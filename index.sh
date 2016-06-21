@@ -1,4 +1,5 @@
 source $(dirname $0)/git-aliases.sh
+source $(dirname $0)/npm-aliases.sh
 source $(dirname $0)/docker.sh
 source $(dirname $0)/ø.sh
 source $(dirname $0)/boot2docker.sh

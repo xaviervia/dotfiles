@@ -1,0 +1,7 @@
+alias test='npm test'
+alias start='npm start'
+alias build='npm run build'
+alias publish='npm publish'
+alias version='npm version'
+alias install='npm install'
+alias lint='npm run lint'
