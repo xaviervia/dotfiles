@@ -2,6 +2,7 @@ source $(dirname $0)/git-aliases.sh
 source $(dirname $0)/npm-aliases.sh
 source $(dirname $0)/docker.sh
 source $(dirname $0)/ø.sh
+source $(dirname $0)/µ.sh
 source $(dirname $0)/boot2docker.sh
 source $(dirname $0)/nvm.sh
 source $(dirname $0)/rvm.sh
