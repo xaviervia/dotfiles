@@ -1,8 +1,8 @@
 #!/bin/sh
 
-alias status="git status --short -b | sed 's/^.*\[/[/' | sed 's/^[^[].*/up to date/' | uniq && git status --short"
+alias s="git status --short -b | sed 's/^.*\[/[/' | sed 's/^[^[].*/up to date/' | uniq && git status --short"
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
-alias add="git add"
+alias a="git add"
 alias amend="git commit --amend"
 alias back="git checkout -"
 alias branch="git branch"
