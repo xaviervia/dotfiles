@@ -5,3 +5,4 @@ alias xavier="git config user.name 'Xavier Via' && git config user.email 'fernan
 alias baires="TZ=America/Buenos_Aires date"
 alias t='ed -p"🚀  "'
 alias y='yarn'
+alias to-gif='docker run -it --rm -v $(pwd):/data maxogden/gifify'
