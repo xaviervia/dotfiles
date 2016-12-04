@@ -6,3 +6,4 @@ alias baires="TZ=America/Buenos_Aires date"
 alias t='ed -p"🚀  "'
 alias y='yarn'
 alias to-gif='docker run -it --rm -v $(pwd):/data maxogden/gifify'
+alias morden='geth --testnet --datadir "~/.ethereum-testnet" --mine console 2>> ~/.ethereum-testnet.log'
