@@ -3,7 +3,6 @@ source $(dirname $0)/yarn.sh
 source $(dirname $0)/docker.sh
 source $(dirname $0)/ø.sh
 source $(dirname $0)/µ.sh
-source $(dirname $0)/boot2docker.sh
 source $(dirname $0)/nvm.sh
 source $(dirname $0)/rvm.sh
 source $(dirname $0)/simple-server.sh
