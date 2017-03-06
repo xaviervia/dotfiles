@@ -34,3 +34,4 @@ alias okk="git add --all && git commit -m"
 alias up="git push --set-upstream origin"
 alias empty="git commit --allow-empty -m 'Dummy commit'"
 alias spring-cleaning="git branch -vv | grep ': gone]' | awk '{print $1}' | xargs git branch -d"
+alias pushh='git push -u origin HEAD'
