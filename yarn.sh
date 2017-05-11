@@ -10,3 +10,4 @@ alias reinstall='rm -rf node_modules && rm -f npm-debug.log && npm install'
 export PATH="$PATH:$(yarn global bin)"
 export PATH="$PATH:$HOME/.config/yarn/global/node_modules/.bin"
 alias dev='yarn dev'
+alias storybook='yarn storybook'
