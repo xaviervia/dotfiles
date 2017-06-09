@@ -10,3 +10,4 @@ alias morden='geth --testnet --datadir "~/.ethereum-testnet" --mine console 2>> 
 alias prune='cat .gitignore | xargs echo rm -rf | sh' # removes files in .gitignore
 alias leandro='git pull --rebase'
 alias paulo='npm init -y && yarn add sagui --dev'
+export EDITOR='ed -p"🚀  "'
