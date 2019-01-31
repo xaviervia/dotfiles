@@ -1,0 +1,1 @@
+alias easy=esy
